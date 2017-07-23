@@ -3,11 +3,11 @@ Deobfuscate code after [js-obfuscator](https://github.com/caiguanhao/js-obfuscat
 
 ### Installing
 
-	`yarn add js-deob`
+	yarn add js-deob
 
 ### CLI
 
-	`deob **/*.js`
+	deob **/*.js
 
 ### Require
 ```js
@@ -19,4 +19,5 @@ Deobfuscate code after [js-obfuscator](https://github.com/caiguanhao/js-obfuscat
 	console.log(fileContents)
 ```
 
+### LICENSE
 (MIT)
