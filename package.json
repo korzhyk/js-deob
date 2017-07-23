@@ -1,10 +1,11 @@
 {
   "name": "js-deob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal cli/lib for deobfuscate javascript code",
   "main": "index.js",
   "author": "AKD",
   "license": "MIT",
+  "git": "https://github.com/korzhyk/js-deob",
   "bin" : { "deob" : "./bin" },
   "dependencies": {
     "commander": "^2.11.0",
